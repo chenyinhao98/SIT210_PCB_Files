@@ -1,0 +1,477 @@
+{
+  "uuid": "c4d2c72a8082a70fa31b20f0aa865d94",
+  "path": "Offline/Adafruit Ulimated GPS Hat PCB",
+  "name": "Adafruit Ulimated GPS Hat PCB",
+  "content": "",
+  "created_at": "2020-05-27 18:50:17",
+  "updated_at": "2020-05-27 21:59:50",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "91fa089e1fa12884a94078530f9fc6f0",
+      "title": "7.3PCB sheet",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f905d92dec8d467ea5a4c65855aa37eb": 1,
+        "91f24246dd504b278494128082c67f54": 1,
+        "f7ee3b07db4642c6b5c4260f487d6c58": 2,
+        "25941d0a3007a8365e2032d4278dd8c0": 1,
+        "8f9adbb917b34301ba51590d0cc98060": 1,
+        "eaa76950fd7343a1953943ee7b9978d3": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "HDR-M-2.54_2x4",
+          1,
+          "HDR-M-2.54_2X4",
+          "J1",
+          {
+            "BOM_Supplier Part": "C58363",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "c9b71cab140e4e31a84c15ac14b83555",
+            "uuid": "8f9adbb917b34301ba51590d0cc98060"
+          }
+        ],
+        [
+          "TJ-L3FYTGHRMBCLFLC4R-A5",
+          1,
+          "LED-TH_BD3.9-P2.54-FD",
+          "RED-LED",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C330773",
+            "BOM_Manufacturer": "TOGIALED",
+            "BOM_Manufacturer Part": "TJ-L3FYTGHRMBCLFLC4R-A5",
+            "puuid": "7d44990c66234bc2a29a866bfc3c5520",
+            "uuid": "91f24246dd504b278494128082c67f54"
+          }
+        ],
+        [
+          "HDR-IDC-2.54-2X3P",
+          1,
+          "IDC-TH_6P-P2.54_C11214",
+          "P2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "BOOMELE",
+            "BOM_Manufacturer Part": "2X3 2.54mm IDC Box",
+            "BOM_Supplier Part": "C11214",
+            "puuid": "847fe177175048f3817aae6b5949e649",
+            "uuid": "25941d0a3007a8365e2032d4278dd8c0"
+          }
+        ],
+        [
+          "HC-SR04",
+          1,
+          "HDR-F-2.54_1X4",
+          "H1",
+          {
+            "BOM_Supplier Part": "C225501",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "21473b495b6340c992965357d5701779",
+            "uuid": "eaa76950fd7343a1953943ee7b9978d3"
+          }
+        ],
+        [
+          "233R",
+          1,
+          "R0201",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "f7ee3b07db4642c6b5c4260f487d6c58"
+          }
+        ],
+        [
+          "1kR",
+          1,
+          "R0201",
+          "R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "f7ee3b07db4642c6b5c4260f487d6c58"
+          }
+        ],
+        [
+          "Raspberry Pi",
+          1,
+          "HDR-F-2.54_2X20",
+          "P1",
+          {
+            "BOM_Supplier Part": "C50982",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "e5ff423634c14561ade34618192283a8",
+            "uuid": "f905d92dec8d467ea5a4c65855aa37eb"
+          }
+        ]
+      ],
+      "updateTime": 1590569471,
+      "createTime": 1590569471,
+      "histories": [],
+      "created_at": "2020-05-27 18:51:11",
+      "updated_at": "2020-05-27 18:51:11"
+    },
+    {
+      "uuid": "3a910d939e24c11e6ee52c0f673785d8",
+      "title": "Adafruit Ultimate WiFi Hat sheet",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {},
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "0.1uF",
+          1,
+          "0805-NO",
+          "C1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "RASPBERRYPI_BPLUS_HATSLOTS",
+          1,
+          "PI_HAT_SLOTS",
+          "RPI1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "CAT24C32",
+          1,
+          "SOIC8_150MIL",
+          "U1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "3.9K",
+          3,
+          "0805-NO",
+          "R1,R2,R3",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "WP",
+          1,
+          "SOLDERJUMPER_CLOSEDWIRE",
+          "SJ1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "FGPMMOPA6H",
+          1,
+          "FGPMMOPA6H",
+          "U2",
+          {
+            "puuid": "2776d9ce1b0943109727b2e8e6748f42",
+            "uuid": ""
+          }
+        ],
+        [
+          "RED",
+          1,
+          "CHIPLED_0805",
+          "LED1",
+          {
+            "puuid": "014e2ea0784c44e9ab00133e50a8e29a",
+            "uuid": ""
+          }
+        ],
+        [
+          "470",
+          1,
+          "0805-NO",
+          "R4",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "HEADER-1X25",
+          1,
+          "1X25_ROUND_70MIL",
+          "CONN1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "10uF",
+          1,
+          "0805-NO",
+          "C2",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "Ferrite",
+          1,
+          "0805",
+          "FB1",
+          {
+            "puuid": "0d14e6c62b14419a891d7c175b7eca4f",
+            "uuid": ""
+          }
+        ],
+        [
+          "CR1220",
+          1,
+          "CR1220",
+          "B1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "U.FL",
+          1,
+          "U.FL",
+          "U$20",
+          {
+            "puuid": "c1e02e52ae8348ef8ed43e38fcfde52b",
+            "uuid": ""
+          }
+        ],
+        [
+          "FIDUCIAL\"\"",
+          3,
+          "FIDUCIAL_1MM",
+          "FID1,FID2,FID3",
+          {
+            "puuid": "d9eab748d121402c94c0ff965ee4d1fa",
+            "uuid": ""
+          }
+        ],
+        [
+          "PPS",
+          1,
+          "SOLDERJUMPER_CLOSEDWIRE",
+          "SJ2",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "PINHD-1X1CB",
+          1,
+          "1X01-CLEANBIG",
+          "JP1",
+          {
+            "puuid": "9aadab207fa44a589b99f70d0f021cda",
+            "uuid": ""
+          }
+        ],
+        [
+          "FRAME_A4_ADAFRUIT",
+          1,
+          "",
+          "U$7",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "HDR-M-2.54_2x4",
+          1,
+          "HDR-M-2.54_2X4",
+          "J1",
+          {
+            "BOM_Supplier Part": "C58363",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "c9b71cab140e4e31a84c15ac14b83555",
+            "uuid": "8f9adbb917b34301ba51590d0cc98060"
+          }
+        ],
+        [
+          "TJ-L3FYTGHRMBCLFLC4R-A5",
+          1,
+          "LED-TH_BD3.9-P2.54-FD",
+          "RED-LED",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C330773",
+            "BOM_Manufacturer": "TOGIALED",
+            "BOM_Manufacturer Part": "TJ-L3FYTGHRMBCLFLC4R-A5",
+            "puuid": "7d44990c66234bc2a29a866bfc3c5520",
+            "uuid": "91f24246dd504b278494128082c67f54"
+          }
+        ],
+        [
+          "HDR-IDC-2.54-2X3P",
+          1,
+          "IDC-TH_6P-P2.54_C11214",
+          "P2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "BOOMELE",
+            "BOM_Manufacturer Part": "2X3 2.54mm IDC Box",
+            "BOM_Supplier Part": "C11214",
+            "puuid": "847fe177175048f3817aae6b5949e649",
+            "uuid": "25941d0a3007a8365e2032d4278dd8c0"
+          }
+        ],
+        [
+          "HC-SR04",
+          1,
+          "HDR-F-2.54_1X4",
+          "H1",
+          {
+            "BOM_Supplier Part": "C225501",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "21473b495b6340c992965357d5701779",
+            "uuid": "eaa76950fd7343a1953943ee7b9978d3"
+          }
+        ],
+        [
+          "233R",
+          1,
+          "R0201",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "f7ee3b07db4642c6b5c4260f487d6c58"
+          }
+        ],
+        [
+          "1kR",
+          1,
+          "R0201",
+          "R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b600ab0518154c0c9d2ed5ca96244c69",
+            "uuid": "f7ee3b07db4642c6b5c4260f487d6c58"
+          }
+        ],
+        [
+          "Raspberry Pi",
+          1,
+          "HDR-F-2.54_2X20",
+          "P1",
+          {
+            "BOM_Supplier Part": "C50982",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "e5ff423634c14561ade34618192283a8",
+            "uuid": "f905d92dec8d467ea5a4c65855aa37eb"
+          }
+        ]
+      ],
+      "updateTime": 1590569584,
+      "createTime": 1590569433,
+      "histories": [],
+      "created_at": "2020-05-27 18:50:33",
+      "updated_at": "2020-05-27 18:53:04"
+    },
+    {
+      "uuid": "fbd84daa465da1e8e71593ee22e963bd",
+      "puuid": "c4d2c72a8082a70fa31b20f0aa865d94",
+      "title": "Adafruit Ulimated GPS Hat",
+      "filename": "Adafruit Ulimated GPS Hat.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "2776d9ce1b0943109727b2e8e6748f42": 1,
+        "014e2ea0784c44e9ab00133e50a8e29a": 1,
+        "0d14e6c62b14419a891d7c175b7eca4f": 1,
+        "c1e02e52ae8348ef8ed43e38fcfde52b": 1,
+        "d9eab748d121402c94c0ff965ee4d1fa": 3,
+        "9aadab207fa44a589b99f70d0f021cda": 1
+      },
+      "BOM": [],
+      "updateTime": 1590580711,
+      "createTime": 1590569458,
+      "histories": [],
+      "created_at": "2020-05-27 18:50:58",
+      "updated_at": "2020-05-27 21:58:31"
+    },
+    {
+      "uuid": "892bfc9d5e641d3a92bc3b91327b1418",
+      "puuid": "9424ae9e1cbc171a6afcceeedefa64f1",
+      "title": "7.3PCB",
+      "filename": "7.3PCB.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "3270674de653459681213848d7625a65": 1,
+        "0c65de3c2ce84970a4d5d11d7700a5f7": 2
+      },
+      "BOM": [],
+      "updateTime": 1590576062,
+      "createTime": 1590576062,
+      "histories": [],
+      "created_at": "2020-05-27 20:41:02",
+      "updated_at": "2020-05-27 20:41:02"
+    }
+  ],
+  "sort": [
+    "91fa089e1fa12884a94078530f9fc6f0"
+  ],
+  "title": "Adafruit Ulimated GPS Hat PCB",
+  "foldername": "Adafruit Ulimated GPS Hat PCB",
+  "schfilename": "Adafruit Ulimated GPS Hat PCB.json",
+  "schfilemtime": 1590580791005
+}
